@@ -18,7 +18,7 @@ def main():
     """
     Main function to run the movie application.
 
-    It creates an instance of the MovieApp class and calls the run() method to start the application.
+    It creates an instance of the MovieApp clas and calls the run() method to start the application.
 
     """
     storage = StorageCsv("movies.csv")
